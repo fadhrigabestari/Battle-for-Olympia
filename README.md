@@ -1,7 +1,7 @@
 # Battle-for-Olympia
 A game inspired by Battle for Wesnoth that i created for a school project in C language.
 
-Download all the necessary files
+1. Download all the necessary files
 
 ADT Driver consists of all the necesarry files to run the game. The driver is created for preliminary tests so i can be sure that all the files required are working as intended.
 
@@ -9,7 +9,7 @@ Source Code consists of all the necesarry files to run the game (also). You can 
 
 Battle for Olympia consists of the executable file I created. If you just want to play the game, just run the game using Windows PowerShell with command line, "./BattleforOlympia"
     
-Play the game!
+2. Play the game!
 
 This game is designed to be played with 2 players, with each side having one King to start off with. The goal of the game is simple, kill the other player's King! You can reqruit additional units to help you gain the upper hand. Be mindful of each unit's cost and upkeep, and how you balance your gold spendings with income from available villages scattered around the map.
 
