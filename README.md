@@ -13,4 +13,15 @@ READ ME :
     Windows PowerShell with command line, "./BattleforOlympia"
     
 2. Play the game!
-  In this game, you type your commands to 
+  This game is designed to be played with 2 players, with each side having one King to start off with. The goal of the game is simple, kill the other player's King! You can reqruit additional units to help you gain the upper hand. Be mindful of each unit's cost and upkeep, and how you balance your gold spendings with income from available villages scattered around the map.
+  Inside the game, input these commands to :
+    MAP.		-- Show the current map.
+    MOVE.		-- Move your currently selected unit to a desired location.
+    UNDO.		-- Return your currently selected unit to it's previous location. "UNDO." command will not be available if input other than                    "MOVE.", "UNDO.", "MAP.", and "INFO." is used.
+    RECRUIT.	-- Recruit a Swordsman, an Archer, or a WhiteMage into the game. To recruit an additional unit, you need to have at least one                  unoccupied castle. Recruitted unit has to be spawned in one of those unoccupied castle.
+    CHANGE_UNIT.	-- Change currently selected to a another unit.
+    NEXT_UNIT.	-- Change currently selected to the next available unit.
+    INFO.		-- Show the current status of your unit and its surroundings.
+    ATTACK.		-- Attack an enemy unit next to your currently selected unit. A unit with different attack type won't be able to retaliate.
+    END_TURN.	-- End your turn.
+    EXIT.		-- Exit the game.
